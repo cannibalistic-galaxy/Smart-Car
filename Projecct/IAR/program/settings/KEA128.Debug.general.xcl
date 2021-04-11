@@ -1,0 +1,13 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
+
+"F:\ELECTRIC\Freescale\再见，其他队\再见队程序\8.10国赛程序(巡线停车)\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\NXP\KExx.dmac" 
+
+
+
+
